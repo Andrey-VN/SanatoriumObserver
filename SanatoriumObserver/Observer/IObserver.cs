@@ -8,6 +8,6 @@ namespace SanatoriumObserver.Observer
 {
     interface IObserver
     {
-        void Update(object o);
+        void Update(object o); 
     }
 }
